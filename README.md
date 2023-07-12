@@ -16,7 +16,5 @@ I don't own a notebook or computer, I study and program only on my cell phone �
 
 - https://twitter.com/Farofa44187442 🐦
 
--  https://instagram.com/pedro_ry68 📷
+- https://instagram.com/pedro_ry68 📷
 
-
-![](https://tenor.com/view/hollow-knight-breakdance-sidebub-gif-26548668)
