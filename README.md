@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Pedro-ryan89/Pedro-ryan89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying at the Federal Institute of education,Science and Technology (IFCE)
 
-Here are some ideas to get you started:
+👨‍💻  in my arsenal I have c++, html, css, JavaScript, python, java, MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠  I have some knowledge in software and database engineering.
+
+👨‍🔧  future fullstack currently studying front end.
+
+I don't own a notebook or computer, I study and program only on my cell phone 😄
+
+✉️ contact:
+
+- preyancoelhonascimento@gmail.com
+
+- https://twitter.com/Farofa44187442 🐦
+
+-  https://instagram.com/pedro_ry68 📷
+
+
+![](https://tenor.com/view/hollow-knight-breakdance-sidebub-gif-26548668)
