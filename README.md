@@ -6,7 +6,7 @@
 
 I am currently studying at the Federal Institute of education,Science and Technology (IFCE)
 
-👨‍💻  in my arsenal I have c++, html, css, JavaScript, python, java, MySQL.
+👨‍💻  in my arsenal I have c++, html, css, JavaScript, python,c#, java, MySQL.
 
 🧠  I have some knowledge in software and database engineering.
 
