@@ -10,7 +10,7 @@ I am currently studying at the Federal Institute of education,Science and Techno
 
 🧠  I have some knowledge in software and database engineering.
 
-👨‍🔧  future fullstack currently studying front end.
+👾  I really enjoy developing games and many other areas of technology
 
 I don't own a notebook or computer, I study and program only on my cell phone 😄
 
