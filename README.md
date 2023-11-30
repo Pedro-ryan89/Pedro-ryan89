@@ -30,7 +30,7 @@ I don't own a notebook or computer, I study and program only on my cell phone �
 
 ## ✉️ contact:
 
-- preyancoelhonascimento@gmail.com
+- pryancoelho89@gmail.com
 
 - https://twitter.com/Farofa44187442 🐦
 
