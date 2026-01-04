@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=8000&color=62BBB8&width=900&height=75&lines=welcome+to+my+profile;Backend+developer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=8000&color=62BBB8&width=900&height=75&lines=%3E+welcome+to+my+profile;%3E+Backend+developer)](https://git.io/typing-svg)
 ## 💬 about me:
 
 Hey, I'm Pedro-Ryan 👋
