@@ -1,7 +1,3 @@
-## Hi there 👋
-##
-![hollow-knight-tea](https://github.com/Pedro-ryan89/Pedro-ryan89/assets/120953398/1d5ede62-2173-4d07-a553-df97a753e82a)
-
 ## 💬 about me:
 
 I am currently studying at the Federal Institute of education,Science and Technology (IFCE)
@@ -30,9 +26,3 @@ I am currently studying at the Federal Institute of education,Science and Techno
 
 - pryancoelho89@gmail.com
 
-- https://twitter.com/Farofa44187442 🐦
-
-- https://instagram.com/pedro_ry68 📷
-
-
-![hollow-knight-breakdance](https://github.com/Pedro-ryan89/Pedro-ryan89/assets/120953398/d236ef17-7302-4014-9d7c-0b16766821bf)
