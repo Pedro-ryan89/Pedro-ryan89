@@ -10,7 +10,7 @@ I use Linux daily, I work a lot with the terminal, and I'm always exploring new 
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,docker,postgres,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,docker,postgres,windows,linux)](https://skillicons.dev)
 
 
 ## ✉️ contact:
