@@ -9,10 +9,6 @@ I like to learn slowly, testing, making mistakes, and improving little by little
 I use Linux daily, I work a lot with the terminal, and I'm always exploring new tools, concepts, and ideas. Here on GitHub you'll find study projects, tests, experiments, and things you'll build over time.
 
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,docker,postgres,windows,linux)](https://skillicons.dev)
-
-
 ## ✉️ contact:
 
 - pryancoelho89@gmail.com
